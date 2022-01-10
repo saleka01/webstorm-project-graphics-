@@ -1,0 +1,6 @@
+edit mode(tab)
+objektum kijelölve, s, majd a megfelelő tengelyen állítás (1x Z tengely)
+3as gombbal kiválasztjuk a face selectet, i-vel beljebb vágunk a keretbe
+e-vel kiemeljük és egy Cube objektumként legyártottuk a sorompó alját
+shift+a ->cylinder hozzáadása, S gombbal tetszőlegesen alakítjuk a tengelyek segítségével, az elhelyezésben sokat segít a jobb fenti X Y Z gomb nyomkodása és azalapján több tengelyen is le kell ellenőrizni, hogy minden passzol-e
+"material properties" beállítottam neki egy piros színt jobb oldalt "base Color"
